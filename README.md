@@ -19,6 +19,8 @@
 ## Overview
 - This application leverages the OmDet-Turbo model to detect objects in real-time from video input. The model uses a zero-shot detection mechanism where the user can specify the list of objects (classes) they want to detect.
 
+![App Demo](./Demo.png)
+
 - This project is based on an open-source implementation by Yoni Gozlan. The original code can be found [here](https://huggingface.co/yonigozlan). The application supports both local deployment and cloud deployment using Hugging Face Spaces.
 
 ## Intended Use Cases
