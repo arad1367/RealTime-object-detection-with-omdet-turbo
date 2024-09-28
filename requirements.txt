@@ -1,0 +1,8 @@
+torch
+timm
+numpy==1.26.3
+git+https://github.com/yonigozlan/transformers.git@add-om-det-turbo
+opencv-python
+supervision
+gradio-client @ git+https://github.com/gradio-app/gradio@66349fe26827e3a3c15b738a1177e95fec7f5554#subdirectory=client/python
+https://gradio-pypi-previews.s3.amazonaws.com/66349fe26827e3a3c15b738a1177e95fec7f5554/gradio-4.42.0-py3-none-any.whl
